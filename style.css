@@ -1,0 +1,169 @@
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
+.span{
+    text-decoration-color: lightseagreen;
+}
+#class{
+    display: flex;
+    text-align: center;
+    text-align: center;
+}
+#houses2{
+    display: flex;
+    margin-bottom: 10%;
+    text-align: center;
+}
+#clas{
+    display: flex;
+}
+#header{
+  display: flex; 
+  justify-content: space-around;
+  font-size: x-small; 
+}
+#last{
+    font-size: xx-small;
+    display: flex;
+    justify-content: end;
+}
+button{
+    background-color: blue;
+    border-radius: 20px;
+    font-size: x-small;
+}
+.class{
+    display: flex;
+    justify-content: space-evenly;
+}
+#all{
+  display: flex;
+  text-align: center;  
+}
+#numbers{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.list{
+    display: flex;
+}
+#images{
+    display: flex;
+}
+#text{
+    text-align: center;
+}
+#girl{
+    display: flex;
+    padding-left: 25%;
+
+}
+#class2{
+    display: flex;
+    font-size: x-small;
+}
+#house1{
+    border: solid 2px;
+    border-radius: 5px;
+}
+.img{
+    width: 200px;
+    height: 150px;
+}
+#ending{
+    text-align: center;
+}
+#house{
+    text-align: center;
+}
+    
+@media screen and (min-width:280) and( max-width:500){
+    #navbar{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .span{
+        text-decoration-color: lightseagreen;
+    }
+    #class{
+        display: flex;
+        text-align: center;
+        text-align: center;
+    }
+    #houses2{
+        display: flex;
+        margin-bottom: 10%;
+        text-align: center;
+    }
+    #clas{
+        display: flex;
+    }
+    #header{
+      display: flex; 
+      justify-content: space-around;
+      font-size: x-small; 
+    }
+    #last{
+        font-size: xx-small;
+        display: flex;
+        justify-content: end;
+    }
+    button{
+        background-color: blue;
+        border-radius: 20px;
+        font-size: x-small;
+    }
+    .class{
+        display: flex;
+    }
+    #all{
+      display: flex;
+      text-align: center;  
+    }
+    #numbers{
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+    }
+    .list{
+        display: flex;
+    }
+    #images{
+        display: flex;
+    }
+    #text{
+        text-align: center;
+    }
+    #girl{
+        display: flex;
+        padding-left: 25%;
+    
+    }
+    #class2{
+        display: flex;
+        font-size: x-small;
+    }
+    #house1{
+        border: solid 2px;
+        border-radius: 5px;
+    }
+    .img{
+        width: 200px;
+        height: 150px;
+    }
+    #ending{
+        text-align: center;
+    }
+    #house{
+        text-align: center;
+    }
+    #body{
+        max-width: 1100px;
+    }
+    
+}
+
+    
+
